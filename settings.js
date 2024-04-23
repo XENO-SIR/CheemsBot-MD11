@@ -15,7 +15,7 @@ global.sessionid ='ur session id'
 
 //owmner v card
 global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.socialm = "Tiktok: DGxeon" //ur tiktok or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
